@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sravanthkt.21@gmail.com
+- 📫 How to reach me sravanthky@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
