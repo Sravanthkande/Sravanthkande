@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sravanthkande
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me sravanthky@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
