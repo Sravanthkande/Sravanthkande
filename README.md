@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻 ECE Student : Learning the ins and outs of tech<br>🌱 Skills in Progress : Kotlin, MongoDB  and more!<br>🔧 Exploring: Ai magic ✨, and Full-Stack awesomeness 🌐<br>
+<p align="left">🧑‍💻 ECE Student : Learning the ins and outs of tech<br>🌱 Skills in Progress : DS Algo, Kotlin, MongoDB  and more!<br>🔧 Exploring: Ai magic ✨, and Full-Stack awesomeness 🌐<br>
 
 ###
 
